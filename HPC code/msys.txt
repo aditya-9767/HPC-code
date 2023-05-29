@@ -1,0 +1,8 @@
+>pacman -Syu
+>pacman -Su
+>pacman -Ss gcc
+>mingw-w64-x86_64-gcc
+>pacman -S mingw-w64-x86_64-gcc
+>cd (to file location)
+>g++ -fopenmp merge.cpp -o merge
+>./merge
